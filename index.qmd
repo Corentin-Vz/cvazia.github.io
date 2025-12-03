@@ -16,11 +16,11 @@ Actuellement ATER au Laboratoire de Mathématiques de Bretagne Atlantique en **m
 
 ## [Publications]{style="text-decoration: underline;"}
 
--   *Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers.*  C. Vazia, T. Dassow, A. Bousse, J. Froment, B. Vedel, F.Vermet, A. Perelli, J-P. Tasu, D. Visvikis. TRMPS, Prépublication, soumis. [Lien](https://arxiv.org/abs/2503.15383)
+-   *Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers.*  C. Vazia, T. Dassow, A. Bousse, J. Froment, B. Vedel, F.Vermet, A. Perelli, J-P. Tasu, D. Visvikis. TRMPS, Prépublication, soumis. [Lien arxiv](https://arxiv.org/abs/2503.15383)
 
--   *Spectral CT two-step and one-step material decomposition using diffusion posterior sampling.* C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. 2024 32nd European Signal Processing Conference (EUSIPCO). IEEE, (08/2024). (Oral) [Lien](https://arxiv.org/abs/2403.10183)	
+-   *Spectral CT two-step and one-step material decomposition using diffusion posterior sampling.* C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. 2024 32nd European Signal Processing Conference (EUSIPCO). IEEE, (08/2024). (Oral) [Lien arxiv](https://arxiv.org/abs/2403.10183)	
 
--   *Diffusion posterior sampling for synergistic reconstruction in spectral computed tomography*. C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. IEEE International Symposium on Biomedical Imaging (ISBI 2024) (Oral) [Lien](https://arxiv.org/abs/2403.06308)
+-   *Diffusion posterior sampling for synergistic reconstruction in spectral computed tomography*. C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. IEEE International Symposium on Biomedical Imaging (ISBI 2024) (Oral) [Lien arxiv](https://arxiv.org/abs/2403.06308)
 
 -   *Guidance of a diffusion model for material decomposition in photon-counting computed tomography.* Mathematics and Image Analysis Conference (MIA). 01/2025. (Poster) & Advances in learning-base image restoration GdR IASIS 12/2024 (Oral)
 
@@ -38,7 +38,7 @@ Actuellement ATER au Laboratoire de Mathématiques de Bretagne Atlantique en **m
 
 -   2025 : ATER au LMBA, Université de Bretagne Sud
 
--   2022-2025 : Doctorat au LMBA, Université de Bretagne Sud en mathématiques pour le traitement de l'image.
+-   2022-2025 : Doctorat au LMBA, Université de Bretagne Sud en mathématiques pour le traitement de l'image : "Une approche de la reconstruction d'images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisation par modèles de diffusion." Thèse dirigée par [Jacques Froment](http://web.univ-ubs.fr/lmba/froment/) (Pr., LMBA, UBS) et [Alexandre Bousse](https://abousse.github.io/) (Hdr, LaTIM, UBO), encadrée par [Béatrice Vedel](http://web.univ-ubs.fr/lmba/vedel/) (Mcf, LMBA, UBS) et [Franck Vermet](https://www.univ-brest.fr/euria/fr/membre/franck-vermet) (Hdr, LMBA, UBO).
 
 -   2022: Master "Traitement du signal et de l'image" (nouvellement Image et sciences des données), Université de Bordeaux.
 
