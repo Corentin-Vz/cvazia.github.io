@@ -10,9 +10,23 @@ toc: true
 editor: visual
 ---
 
-:::: {.columns}
+::::::: columns
+:::: {.column width="60%"}
+::: {.callout-note appearance="minimal" icon="false"}
+Actuellement ATER au [Laboratoire de Mathématiques de Bretagne Atlantique](https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr) en **mathématiques appliquées pour le traitement du signal et de l’image**, je travaille sur la résolution de problèmes inverses en imagerie médicale.
+:::
+::::
 
-::: {.column width="60%"}
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+![](photo.jpg){width="50%" fig-align="left"}
+:::
+:::::::
+
+
 ::: {.callout-important icon="false"}
 ## Contact
 
@@ -22,24 +36,6 @@ editor: visual
 
 🧭 : Centre Yves Coppens, Campus de Tohannic, Vannes.
 :::
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="30%"}
-![](photo.jpg){width=50% fig-align="left"}
-:::
-
-::::
-
-
-
-::: {.callout-note appearance="minimal" icon="false"}
-Actuellement ATER au [Laboratoire de Mathématiques de Bretagne Atlantique](https://www.univ-brest.fr/laboratoire-mathematiques-bretagne-atlantique/fr) en **mathématiques appliquées pour le traitement du signal et de l’image**, je travaille sur la résolution de problèmes inverses en imagerie médicale.
-:::
-
 ## [Publications]{style="text-decoration: underline;"}
 
 -   *Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers.*  C. Vazia, T. Dassow, A. Bousse, J. Froment, B. Vedel, F.Vermet, A. Perelli, J-P. Tasu, D. Visvikis. TRMPS, Prépublication, soumis. [Lien arXiv](https://arxiv.org/abs/2503.15383)
