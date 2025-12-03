@@ -18,9 +18,9 @@ editor: visual
 
 📨 : corentin.vazia\@univ-ubs.fr
 
-🔬 : LMBA UMR 6208 (Vannes), Université de Bretagne Sud
+🔬 : LMBA UMR 6208 (Vannes), Université de Bretagne Sud.
 
-🧭 : Centre Yves Coppens, Campus de Tohannic
+🧭 : Centre Yves Coppens, Campus de Tohannic, Vannes.
 :::
 :::
 
@@ -42,11 +42,11 @@ Actuellement ATER au [Laboratoire de Mathématiques de Bretagne Atlantique](http
 
 ## [Publications]{style="text-decoration: underline;"}
 
--   *Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers.*  C. Vazia, T. Dassow, A. Bousse, J. Froment, B. Vedel, F.Vermet, A. Perelli, J-P. Tasu, D. Visvikis. TRMPS, Prépublication, soumis. [Lien arxiv](https://arxiv.org/abs/2503.15383)
+-   *Material Decomposition in Photon-Counting Computed Tomography with Diffusion Models: Comparative Study and Hybridization with Variational Regularizers.*  C. Vazia, T. Dassow, A. Bousse, J. Froment, B. Vedel, F.Vermet, A. Perelli, J-P. Tasu, D. Visvikis. TRMPS, Prépublication, soumis. [Lien arXiv](https://arxiv.org/abs/2503.15383)
 
--   *Spectral CT two-step and one-step material decomposition using diffusion posterior sampling.* C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. 2024 32nd European Signal Processing Conference (EUSIPCO). IEEE, (08/2024). (Oral) [Lien arxiv](https://arxiv.org/abs/2403.10183)
+-   *Spectral CT two-step and one-step material decomposition using diffusion posterior sampling.* C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. 2024 32nd European Signal Processing Conference (EUSIPCO). IEEE, (08/2024). (Oral) [Lien arXiv](https://arxiv.org/abs/2403.10183)
 
--   *Diffusion posterior sampling for synergistic reconstruction in spectral computed tomography*. C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. IEEE International Symposium on Biomedical Imaging (ISBI 2024) (Oral) [Lien arxiv](https://arxiv.org/abs/2403.06308)
+-   *Diffusion posterior sampling for synergistic reconstruction in spectral computed tomography*. C. Vazia, A. Bousse, B. Vedel, F. Vermet, Z. Wang, T. Dassow, J-P. Tasu, D. Visvikis, J. Froment. IEEE International Symposium on Biomedical Imaging (ISBI 2024) (Oral) [Lien arXiv](https://arxiv.org/abs/2403.06308)
 
 -   *Guidance of a diffusion model for material decomposition in photon-counting computed tomography.* Mathematics and Image Analysis Conference (MIA). 01/2025. (Poster) & Advances in learning-base image restoration GdR IASIS 12/2024 (Oral)
 
