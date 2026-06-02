@@ -58,7 +58,9 @@ Actuellement ATER au [Laboratoire de Mathématiques de Bretagne Atlantique](http
 
 ## [Parcours]{style="text-decoration: underline;"}
 
--   2025 : ATER au LMBA, Université de Bretagne Sud.
+-   2026 : PostDoc *Optimization and Monte Carlo Sampling Intertwined* (OptimoCsi) au Laboratoire des Sciences du Numériques (LS2N), Nantes, équipe Signal IMage et Son (SIMS).
+
+-   2025-2026 : ATER au LMBA, Université de Bretagne Sud.
 
 -   2022-2025 : Doctorat au LMBA, Université de Bretagne Sud en mathématiques pour le traitement de l'image : "Une approche de la reconstruction d'images et de la décomposition de matériaux en tomodensitométrie spectrale avec régularisation par modèles de diffusion." Thèse dirigée par [Jacques Froment](http://web.univ-ubs.fr/lmba/froment/) (Pr., LMBA, UBS) et [Alexandre Bousse](https://abousse.github.io/) (Hdr, LaTIM, UBO), encadrée par [Béatrice Vedel](http://web.univ-ubs.fr/lmba/vedel/) (Mcf, LMBA, UBS) et [Franck Vermet](https://www.univ-brest.fr/euria/fr/membre/franck-vermet) (Hdr, LMBA, UBO).
 
